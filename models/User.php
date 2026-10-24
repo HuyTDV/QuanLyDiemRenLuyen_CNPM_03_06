@@ -1,0 +1,1 @@
+//Truy vấn thông tin người dùng, kiểm tra mật khẩu, lấy danh sách phân quyền

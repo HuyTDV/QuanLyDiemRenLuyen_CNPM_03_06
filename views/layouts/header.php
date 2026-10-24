@@ -1,0 +1,1 @@
+//Phần đầu trang HTML chung (chứa thẻ <head>, liên kết CSS, thư viện Bootstrap)

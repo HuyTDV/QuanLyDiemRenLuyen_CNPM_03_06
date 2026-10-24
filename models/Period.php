@@ -1,0 +1,1 @@
+//Thao tác CSDL quản lý các đợt đánh giá điểm rèn luyện, thiết lập thời gian bắt đầu và kết thúc

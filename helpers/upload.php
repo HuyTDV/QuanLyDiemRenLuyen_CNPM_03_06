@@ -1,0 +1,1 @@
+//Hàm hỗ trợ xử lý việc tải lên file minh chứng (kiểm tra định dạng file PDF, ảnh, giới hạn dung lượng, đổi tên tránh trùng lặp)

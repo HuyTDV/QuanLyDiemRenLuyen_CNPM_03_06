@@ -1,0 +1,1 @@
+//Phần cuối trang HTML chung (chứa các script JS và thẻ đóng HTML)

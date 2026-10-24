@@ -1,0 +1,1 @@
+//Lưu các cấu hình chung của hệ thống như đường dẫn gốc (Base URL), múi giờ, cấu hình email hoặc tên trường học.

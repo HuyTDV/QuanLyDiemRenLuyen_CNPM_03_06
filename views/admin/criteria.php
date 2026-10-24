@@ -1,0 +1,1 @@
+//Giao diện quản lý danh mục tiêu chí, điều khoản và thang điểm rèn luyện

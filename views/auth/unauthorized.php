@@ -1,0 +1,1 @@
+//Giao diện thông báo lỗi khi người dùng cố truy cập trang không đúng quyền hạn.

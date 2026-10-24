@@ -1,0 +1,1 @@
+//Chứa đoạn mã kết nối cơ sở dữ liệu MySQL sử dụng PDO, cung cấp biến kết nối chung cho toàn bộ ứng dụng.

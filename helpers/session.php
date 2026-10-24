@@ -1,0 +1,1 @@
+//Khởi tạo session, kiểm tra trạng thái đăng nhập, xác thực quyền hạn (phân quyền 4 vai trò: Sinh viên, Cán bộ lớp, GVCN, Quản trị viên)
